@@ -54,7 +54,7 @@ const Landing = () => {
             animate={{ opacity: 1 }}
             transition={{ delay: 1.2, duration: 0.8 }}
           >
-            My Love ♥
+            ♥ My Love Ikram ♥
           </motion.p>
 
           <motion.button
